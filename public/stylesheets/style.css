@@ -1,0 +1,15 @@
+.error {
+  background: rgba(0, 0, 0, 0) none repeat scroll 0 0;
+  border: medium none;
+  color: #fff;
+  font-size: 20px;
+  position: absolute;
+  right: 10px;
+  top: 15px;
+  color: inherit;
+  padding-top: 10px;
+}
+img {
+  width: 100px;
+  height: 100px;
+}
